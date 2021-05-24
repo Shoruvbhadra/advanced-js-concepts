@@ -1,11 +1,11 @@
-// falsy values in js : 
+falsy values in js : 
 
-// 0;
-// '';
-// undefined ;
-// NaN;
-// null;
-// false keyword; 
+0;
+'';
+undefined ;
+NaN;
+null;
+false keyword; 
 
 let Name = false;
 if (Name) {
